@@ -1,0 +1,7 @@
+Copyright (c) 2026 Stephanie Buchanan
+
+The paper, figures, and data tables are provided for reading, citation,
+verification, and noncommercial research use with attribution.
+
+The verification script may be copied, modified, and redistributed with
+attribution. No warranty is provided.

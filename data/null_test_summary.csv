@@ -1,0 +1,10 @@
+null_model,statistic,observed_value,realizations,empirical_p
+depth_permutation,axial_concentration,0.94619,10000,0.0106
+depth_permutation,maximum_pairwise_selected_axis_separation_deg,42.98,10000,0.0064
+depth_permutation,mean_pairwise_projector_distance,0.24511,10000,0.001
+independent_model_rotation,axial_concentration,0.94619,10000,0.0002
+independent_model_rotation,maximum_pairwise_selected_axis_separation_deg,42.98,10000,0.0001
+independent_model_rotation,mean_pairwise_projector_distance,0.24511,10000,0.0001
+shallower_interval_substitution,axial_concentration,0.94619,10000,0.0003
+shallower_interval_substitution,maximum_pairwise_selected_axis_separation_deg,42.98,10000,0.0028
+shallower_interval_substitution,mean_pairwise_projector_distance,0.24511,10000,0.0001

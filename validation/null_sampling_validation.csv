@@ -1,0 +1,4 @@
+null_model,required_realizations,valid_realizations,failed_realizations,paired_model_structure_preserved,diagnostic_validation_passed,realization_ids_unique,validation_passed
+depth_permutation,10000,10000,0,True,True,True,True
+independent_model_rotation,10000,10000,0,True,True,True,True
+shallower_interval_substitution,10000,10000,0,True,True,True,True

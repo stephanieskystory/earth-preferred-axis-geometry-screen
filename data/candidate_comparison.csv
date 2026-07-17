@@ -1,0 +1,7 @@
+comparison,axial_distance_to_candidate_deg,role_or_source,interpretation
+family_balanced_lowermost_center,18.81,selected-axis center,primary containment comparison
+primary_static_gravity_residual,9.45,maximum-moment axis,secondary comparison
+unica25_absolute_vp_2500_2891_km,2.16,individual tomography tensor,secondary comparison
+closest_pooled_depth_interval_center,14.85,depth-center comparison,secondary comparison
+closest_model_family_center,15.82,family-center comparison,secondary comparison
+solid_lithosphere_maximum_axis,39.09,maximum-moment axis,secondary comparison

@@ -1,0 +1,8 @@
+{
+  "null_realizations_per_null": 10000,
+  "family_bootstrap_realizations": 2000,
+  "grace_bootstrap_realizations": 1000,
+  "grace_block_length_months": 6,
+  "diagonal_grace_coefficient_uncertainties_used": true,
+  "full_grace_coefficient_covariance_used": false
+}

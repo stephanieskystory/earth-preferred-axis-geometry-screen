@@ -1,0 +1,9 @@
+validation,passed,public_evidence
+null_sampling,True,"Each null contains 10,000 valid realizations with no failed realizations."
+null_weight_consistency,True,Observed and null statistics used the same declared weighting and selected-axis rules.
+unordered_frame_optimizer,True,All tested fits converged and passed the declared comparison tolerance.
+candidate_geometry,True,Axial-distance calculations were checked for antipodal symmetry.
+bootstrap_support,True,"Containment radii were calculated from 2,000 actual bootstrap centers."
+static_gravity_selection,True,The primary reference-compatible static-gravity residual was fixed before candidate comparison.
+axis_role_handling,True,Preferred rotational roles and unordered principal-axis geometry were kept separate.
+blocking_checks,True,No blocking validation failed in publication closure.

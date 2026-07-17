@@ -1,0 +1,5 @@
+representation,median_difference_deg,lower_95_deg,upper_95_deg,bootstrap_realizations
+named_minimum_role,88.83,86.01,89.95,1000
+named_intermediate_role,4.59,0.82,11.6,1000
+named_maximum_role,88.78,85.97,89.95,1000
+optimally_permuted_unordered_frame,4.78,1.45,11.83,1000

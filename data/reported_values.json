@@ -1,0 +1,35 @@
+{
+  "candidate": {
+    "latitude_deg": -14.0,
+    "longitude_deg": 31.0
+  },
+  "lowermost_center_candidate_facing": {
+    "latitude_deg": -1.0207,
+    "longitude_deg": 17.2388
+  },
+  "candidate_distance_to_lowermost_center_deg": 18.81,
+  "bootstrap": {
+    "realizations": 2000,
+    "unique_centers": 8,
+    "median_displacement_deg": 1.64,
+    "radius_68_deg": 1.95,
+    "radius_95_deg": 3.04,
+    "radius_99_deg": 3.04,
+    "classification": "unsupported"
+  },
+  "null_realizations_each": 10000,
+  "observed_statistics": {
+    "axial_concentration": 0.94619,
+    "max_pairwise_selected_axis_separation_deg": 42.98,
+    "mean_pairwise_projector_distance": 0.24511
+  },
+  "secondary_distances_deg": {
+    "primary_static_gravity_maximum": 9.45,
+    "closest_individual_unica25": 2.16,
+    "closest_depth_interval_center": 14.85,
+    "closest_model_family_center": 15.82,
+    "solid_lithosphere_maximum": 39.09
+  },
+  "grace_bootstrap_realizations": 1000,
+  "grace_block_length_months": 6
+}

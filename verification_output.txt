@@ -1,0 +1,71 @@
+Publication verification
+========================
+[PASS] Candidate-to-center distance is 18.81 degrees.
+[PASS] Empirical 99% radius is 3.04 degrees.
+[PASS] Containment classification is unsupported.
+[PASS] Family bootstrap used 2,000 realizations.
+[PASS] Family bootstrap contains eight unique centers.
+[PASS] One result exists for depth_permutation / axial_concentration.
+[PASS] depth_permutation / axial_concentration used 10,000 realizations.
+[PASS] depth_permutation / axial_concentration p-value matches the paper.
+[PASS] One result exists for depth_permutation / maximum_pairwise_selected_axis_separation_deg.
+[PASS] depth_permutation / maximum_pairwise_selected_axis_separation_deg used 10,000 realizations.
+[PASS] depth_permutation / maximum_pairwise_selected_axis_separation_deg p-value matches the paper.
+[PASS] One result exists for depth_permutation / mean_pairwise_projector_distance.
+[PASS] depth_permutation / mean_pairwise_projector_distance used 10,000 realizations.
+[PASS] depth_permutation / mean_pairwise_projector_distance p-value matches the paper.
+[PASS] One result exists for independent_model_rotation / axial_concentration.
+[PASS] independent_model_rotation / axial_concentration used 10,000 realizations.
+[PASS] independent_model_rotation / axial_concentration p-value matches the paper.
+[PASS] One result exists for independent_model_rotation / maximum_pairwise_selected_axis_separation_deg.
+[PASS] independent_model_rotation / maximum_pairwise_selected_axis_separation_deg used 10,000 realizations.
+[PASS] independent_model_rotation / maximum_pairwise_selected_axis_separation_deg p-value matches the paper.
+[PASS] One result exists for independent_model_rotation / mean_pairwise_projector_distance.
+[PASS] independent_model_rotation / mean_pairwise_projector_distance used 10,000 realizations.
+[PASS] independent_model_rotation / mean_pairwise_projector_distance p-value matches the paper.
+[PASS] One result exists for shallower_interval_substitution / axial_concentration.
+[PASS] shallower_interval_substitution / axial_concentration used 10,000 realizations.
+[PASS] shallower_interval_substitution / axial_concentration p-value matches the paper.
+[PASS] One result exists for shallower_interval_substitution / maximum_pairwise_selected_axis_separation_deg.
+[PASS] shallower_interval_substitution / maximum_pairwise_selected_axis_separation_deg used 10,000 realizations.
+[PASS] shallower_interval_substitution / maximum_pairwise_selected_axis_separation_deg p-value matches the paper.
+[PASS] One result exists for shallower_interval_substitution / mean_pairwise_projector_distance.
+[PASS] shallower_interval_substitution / mean_pairwise_projector_distance used 10,000 realizations.
+[PASS] shallower_interval_substitution / mean_pairwise_projector_distance p-value matches the paper.
+[PASS] One comparison row exists for family_balanced_lowermost_center.
+[PASS] family_balanced_lowermost_center distance matches the paper.
+[PASS] One comparison row exists for primary_static_gravity_residual.
+[PASS] primary_static_gravity_residual distance matches the paper.
+[PASS] One comparison row exists for unica25_absolute_vp_2500_2891_km.
+[PASS] unica25_absolute_vp_2500_2891_km distance matches the paper.
+[PASS] One comparison row exists for closest_pooled_depth_interval_center.
+[PASS] closest_pooled_depth_interval_center distance matches the paper.
+[PASS] One comparison row exists for closest_model_family_center.
+[PASS] closest_model_family_center distance matches the paper.
+[PASS] One comparison row exists for solid_lithosphere_maximum_axis.
+[PASS] solid_lithosphere_maximum_axis distance matches the paper.
+[PASS] One GRACE summary row exists for named_minimum_role.
+[PASS] named_minimum_role median matches the paper.
+[PASS] named_minimum_role uses 1,000 bootstrap realizations.
+[PASS] One GRACE summary row exists for named_intermediate_role.
+[PASS] named_intermediate_role median matches the paper.
+[PASS] named_intermediate_role uses 1,000 bootstrap realizations.
+[PASS] One GRACE summary row exists for named_maximum_role.
+[PASS] named_maximum_role median matches the paper.
+[PASS] named_maximum_role uses 1,000 bootstrap realizations.
+[PASS] One GRACE summary row exists for optimally_permuted_unordered_frame.
+[PASS] optimally_permuted_unordered_frame median matches the paper.
+[PASS] optimally_permuted_unordered_frame uses 1,000 bootstrap realizations.
+[PASS] All published validation summaries pass.
+
+57 passed; 0 failed.
+Spreadsheet runtime warmup failed during python startup
+Traceback (most recent call last):
+  File "/tmp/tmp.yTcnQsZYiA/artifact_tool_v2-2.8.4/artifact_tool/patches/warm_spreadsheet_runtime_on_startup.py", line 26, in warm_spreadsheet_runtime_on_startup
+  File "/tmp/tmp.yTcnQsZYiA/artifact_tool_v2-2.8.4/artifact_tool/spreadsheet_warmup.py", line 785, in warm_spreadsheet_runtime
+  File "/tmp/tmp.yTcnQsZYiA/artifact_tool_v2-2.8.4/artifact_tool/spreadsheet_warmup.py", line 720, in _warm_feature_flows
+  File "/tmp/tmp.yTcnQsZYiA/artifact_tool_v2-2.8.4/artifact_tool/spreadsheet_warmup.py", line 704, in _warm_collaboration_flows
+  File "/tmp/tmp.yTcnQsZYiA/artifact_tool_v2-2.8.4/artifact_tool/generated/interface/models.py", line 30820, in hydrate_crdt_from_proto
+  File "/tmp/tmp.yTcnQsZYiA/artifact_tool_v2-2.8.4/artifact_tool/rpc/remote.py", line 749, in __call__
+  File "/tmp/tmp.yTcnQsZYiA/artifact_tool_v2-2.8.4/artifact_tool/rpc/client.py", line 150, in call
+artifact_tool.rpc.client.RemoteError: hydrateCrdtFromProto requires an empty collaborative document.

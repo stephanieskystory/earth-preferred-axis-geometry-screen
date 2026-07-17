@@ -1,0 +1,2 @@
+center_latitude_deg_candidate_facing,center_longitude_deg_candidate_facing,candidate_latitude_deg,candidate_longitude_deg,candidate_distance_deg,bootstrap_realizations,unique_centers,median_displacement_deg,radius_68_deg,radius_95_deg,radius_99_deg,classification
+-1.0207,17.2388,-14.0,31.0,18.81,2000,8,1.64,1.95,3.04,3.04,unsupported
