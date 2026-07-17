@@ -46,7 +46,7 @@ classification.
 ## Citation
 
 Buchanan, Stephanie. 2026. *Testing a Proposed Rotational Pole Against Earth’s
-Preferred-Axis Geometry*  Independent geophysical modeling case study.
+Preferred-Axis Geometry.*  Independent geophysical modeling case study.
 
 ## Author
 
